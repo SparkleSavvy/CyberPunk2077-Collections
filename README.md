@@ -1,6 +1,6 @@
 # CyberPunk2077-Collections
 ### Perfect City (2.3)
-1. Download all mods here.
+1. Download all mods [here](https://drive.google.com/file/d/1gJkQJWKZx7WnYQX8cKxIwkGG7FaIrduo/view?usp=sharing).
 2. Unpack the zip archive into the directory where your Vortex manager folder is located.
 > [!WARNING]
 > DO NOT UNZIP INTO THE VORTEX DOWNLOADS FOLDER ITSELF, BUT INTO THE CATEGORY WHERE VORTEX (DOWNLOADS, You can see in download settings) IS LOCATED. Since the archive is packed in such a way that all the necessary folders are already there, you only have to unpack this archive into the category in which the Vortex downloads folder itself is located. You can look at the structure of the archive inside for more details.
